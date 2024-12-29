@@ -1,0 +1,13 @@
+.loadBtn {
+  padding: 20px 40px;
+  font-size: 20px;
+  border-radius: 4px;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.loadBtn:hover,
+.loadBtn:focus {
+  background-color: greenyellow;
+}

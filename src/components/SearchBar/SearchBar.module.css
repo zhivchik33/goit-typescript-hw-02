@@ -1,0 +1,19 @@
+.header {
+  background-color: green;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 99;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input {
+  padding: 12px 20px;
+  border-radius: 10px;
+}
+.button {
+  color: gray;
+  padding-bottom: 12px;
+}
